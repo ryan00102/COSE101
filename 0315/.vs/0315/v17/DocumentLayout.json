@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryan0\\Desktop\\cjw\\Univ\\4-1\\\uCEF4\uD4E8\uD130\uD504\uB85C\uADF8\uB798\uBC0DI\\exercise\\0315\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5EF09D-FDBC-4EDA-9D9E-5EA39CBED510}|0315\\0315.vcxproj|C:\\Users\\ryan0\\Desktop\\cjw\\Univ\\4-1\\\uCEF4\uD4E8\uD130\uD504\uB85C\uADF8\uB798\uBC0DI\\exercise\\0315\\0315\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB5EF09D-FDBC-4EDA-9D9E-5EA39CBED510}|0315\\0315.vcxproj|solutionrelative:0315\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello.c",
+              "DocumentMoniker": "C:\\Users\\ryan0\\Desktop\\cjw\\Univ\\4-1\\\uCEF4\uD4E8\uD130\uD504\uB85C\uADF8\uB798\uBC0DI\\exercise\\0315\\0315\\hello.c",
+              "RelativeDocumentMoniker": "0315\\hello.c",
+              "ToolTip": "C:\\Users\\ryan0\\Desktop\\cjw\\Univ\\4-1\\\uCEF4\uD4E8\uD130\uD504\uB85C\uADF8\uB798\uBC0DI\\exercise\\0315\\0315\\hello.c*",
+              "RelativeToolTip": "0315\\hello.c*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-15T02:09:00.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
